@@ -1,21 +1,7 @@
 package test.app;
 
 public class Balloon {
-
-    private String color;
-
-    public Balloon() {
-    }
-
-    public Balloon(String c) {
-        this.color = c;
-    }
-
-    public String getColor() {
-        return color;
-    }
-
-    public void setColor(String color) {
-        this.color = color;
+    public static void main(String[] args) {
+        System.out.println("Salam Fexri Salam salammmm");
     }
 }
